@@ -1,0 +1,1 @@
+/* Routes related to cost variables management */

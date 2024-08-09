@@ -1,0 +1,1 @@
+/* Handles quote-related requests */
