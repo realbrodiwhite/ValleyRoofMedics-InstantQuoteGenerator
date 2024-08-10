@@ -1,1 +1,0 @@
-/* Service for generating and handling PDFs */

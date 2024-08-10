@@ -1,1 +1,0 @@
-/* JWT-based authentication middleware */

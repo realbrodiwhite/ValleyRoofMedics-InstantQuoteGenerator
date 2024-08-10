@@ -1,1 +1,0 @@
-/* Context for managing authentication state */

@@ -1,1 +1,0 @@
-/* Form component for requesting quotes */

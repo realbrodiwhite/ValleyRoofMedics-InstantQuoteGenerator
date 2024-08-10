@@ -1,1 +1,0 @@
-/* Handles cost variables requests */

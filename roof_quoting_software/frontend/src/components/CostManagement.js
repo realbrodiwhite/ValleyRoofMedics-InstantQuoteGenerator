@@ -1,1 +1,0 @@
-/* Component for managing cost variables */

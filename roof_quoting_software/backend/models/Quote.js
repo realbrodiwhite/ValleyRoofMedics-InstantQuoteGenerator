@@ -1,1 +1,0 @@
-/* Sequelize model for quotes */
